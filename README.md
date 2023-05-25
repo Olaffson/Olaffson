@@ -2,7 +2,7 @@
 
 <h3 align="center">En recherche d alternance dans le domaine de la data et de l IA.</h3>
 
-<img align="center" src="[https://opensource.com/sites/default/files/lead-images/LIFE_wavegraph.png](https://github.com/dhaitz/matplotlib-stylesheets/raw/master/img/pitayasmoothie_dark.png)" width="500"/>
+<img align="center" src="[[https://opensource.com/sites/default/files/lead-images/LIFE_wavegraph.png](https://github.com/dhaitz/matplotlib-stylesheets/raw/master/img/pitayasmoothie_dark.png)](https://github.com/dhaitz/matplotlib-stylesheets/raw/master/img/pitayasmoothie_dark.png)" width="500"/>
 
 
 
