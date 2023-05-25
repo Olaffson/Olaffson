@@ -1,7 +1,6 @@
 <h1 align="center">Bonjour, je suis Olivier Kotwica</h1>
 <h3 align="center">En recherche d alternance dans le domaine de la data et de l IA</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
