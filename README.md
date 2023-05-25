@@ -2,7 +2,7 @@
 
 <h3 align="center">En recherche d alternance dans le domaine de la data et de l IA.</h3>
 
-<img src="https://opensource.com/sites/default/files/lead-images/LIFE_wavegraph.png" width="200"/>
+<img align='center' src="https://opensource.com/sites/default/files/lead-images/LIFE_wavegraph.png" width="500"/>
 
 <h2> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
