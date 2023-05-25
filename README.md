@@ -1,7 +1,9 @@
 <h1 align="center">Hi, i'm Olivier Kotwica.</h1>
 <h3 align="center">En recherche d alternance dans le domaine de la data et de l IA.</h3>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://www.google.com/url?sa=i&url=https%3A%2F%2Finsightsoftware.com%2Ffr%2Fsolutions%2Ftableaux-de-bord-commerciaux%2Fpower-bi%2F&psig=AOvVaw3wdLWw4iWMpam_arwWO0ix&ust=1685131388324000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCi7eChkf8CFQAAAAAdAAAAABAL)" width="30"/>
+
+<h2> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Senior Software Engineer at <a href="https://www.oneorigin.us/">OneOrigin
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
