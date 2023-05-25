@@ -2,23 +2,12 @@
 
 <h3 align="center">En recherche d alternance dans le domaine de la data et de l IA.</h3>
 
-<img align='center' src="https://opensource.com/sites/default/files/lead-images/LIFE_wavegraph.png" width="500"/>
+<img align="center" src="[https://opensource.com/sites/default/files/lead-images/LIFE_wavegraph.png](https://github.com/dhaitz/matplotlib-stylesheets/raw/master/img/pitayasmoothie_dark.png)" width="500"/>
 
-<h2> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://www.oneorigin.us/">OneOrigin
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
 
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
 
 ```bash
 npx anmol
