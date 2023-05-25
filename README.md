@@ -1,7 +1,8 @@
 <h1 align="center">Hi, i'm Olivier Kotwica.</h1>
+
 <h3 align="center">En recherche d alternance dans le domaine de la data et de l IA.</h3>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://www.google.com/url?sa=i&url=https%3A%2F%2Finsightsoftware.com%2Ffr%2Fsolutions%2Ftableaux-de-bord-commerciaux%2Fpower-bi%2F&psig=AOvVaw3wdLWw4iWMpam_arwWO0ix&ust=1685131388324000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCi7eChkf8CFQAAAAAdAAAAABAL)" width="30"/>
+<img src="https://opensource.com/sites/default/files/lead-images/LIFE_wavegraph.png" width="200"/>
 
 <h2> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -9,12 +10,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
 
