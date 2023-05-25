@@ -2,25 +2,11 @@
 
 <h3 align="center">En recherche d alternance dans le domaine de la data et de l IA.</h3>
 
-<img align="center" src="[[https://opensource.com/sites/default/files/lead-images/LIFE_wavegraph.png](https://github.com/dhaitz/matplotlib-stylesheets/raw/master/img/pitayasmoothie_dark.png)](https://github.com/dhaitz/matplotlib-stylesheets/raw/master/img/pitayasmoothie_dark.png)" width="500"/>
+<img align="center" src="https://github.com/dhaitz/matplotlib-stylesheets/raw/master/img/pitayasmoothie_dark.png" width="500"/>
 
 
 
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-
-
-
-
-
+[![Linkedin: Olivier](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/olivier-kotwica-b64903198/) << A little more about me
 
 
 <p align="left">
