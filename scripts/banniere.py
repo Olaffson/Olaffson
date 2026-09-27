@@ -85,7 +85,10 @@ def generer(theme: dict) -> str:
     </linearGradient>
   </defs>
   <rect width="{LARGEUR}" height="{HAUTEUR}" rx="16" fill="url(#fond)"/>
-  <path class="vague" clip-path="url(#carte)" d="M0 185 C 150 150, 300 215, 450 185 S 750 150, 960 185 L 960 {HAUTEUR} L 0 {HAUTEUR} Z"/>
+  <!-- le découpage s'applique au groupe fixe : appliqué à la vague, il se déplacerait avec elle -->
+  <g clip-path="url(#carte)">
+    <path class="vague" d="M0 185 C 150 150, 300 215, 450 185 S 750 150, 960 185 L 960 {HAUTEUR} L 0 {HAUTEUR} Z"/>
+  </g>
   <text class="nom" x="{LARGEUR / 2}" y="92" text-anchor="middle">{escape(NOM)}</text>{''.join(roles_svg)}
 </svg>
 """

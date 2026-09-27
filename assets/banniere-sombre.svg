@@ -17,7 +17,10 @@
     </linearGradient>
   </defs>
   <rect width="900" height="220" rx="16" fill="url(#fond)"/>
-  <path class="vague" clip-path="url(#carte)" d="M0 185 C 150 150, 300 215, 450 185 S 750 150, 960 185 L 960 220 L 0 220 Z"/>
+  <!-- le découpage s'applique au groupe fixe : appliqué à la vague, il se déplacerait avec elle -->
+  <g clip-path="url(#carte)">
+    <path class="vague" d="M0 185 C 150 150, 300 215, 450 185 S 750 150, 960 185 L 960 220 L 0 220 Z"/>
+  </g>
   <text class="nom" x="450.0" y="92" text-anchor="middle">Olivier Kotwica</text>
   <clipPath id="masque0">
     <rect x="231.6" y="124" width="0" height="36">
