@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="titre">
+  <title id="titre">Olivier Kotwica : Data Analyst / Data Engineer, Python · SQL · Azure, Scraping, ML et MLOps</title>
+  <style>
+    .nom { font: 700 44px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #f3f4f6; }
+    .role { font: 500 26px Consolas, 'Courier New', monospace; fill: #60a5fa; }
+    .curseur { fill: #60a5fa; animation: clignote 0.9s steps(1) infinite; }
+    @keyframes clignote { 50% { fill-opacity: 0; } }
+    .vague { fill: #1e3a5f; opacity: 0.6; animation: flotte 8s ease-in-out infinite alternate; }
+    @keyframes flotte { to { transform: translateX(-60px); } }
+    @media (prefers-reduced-motion: reduce) { .vague, .curseur { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="carte"><rect width="900" height="220" rx="16"/></clipPath>
+    <linearGradient id="fond" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1b2a"/>
+      <stop offset="1" stop-color="#1b1035"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="16" fill="url(#fond)"/>
+  <!-- le découpage s'applique au groupe fixe : appliqué à la vague, il se déplacerait avec elle -->
+  <g clip-path="url(#carte)">
+    <path class="vague" d="M0 185 C 150 150, 300 215, 450 185 S 750 150, 960 185 L 960 220 L 0 220 Z"/>
+  </g>
+  <text class="nom" x="450.0" y="92" text-anchor="middle">Olivier Kotwica</text>
+  <clipPath id="masque0">
+    <rect x="231.6" y="124" width="0" height="36">
+      <animate attributeName="width" dur="12.0s" repeatCount="indefinite" keyTimes="0.0000;0.0000;0.1167;0.2667;0.3167;1.0000" values="0.0;0.0;436.8;436.8;0.0;0.0"/>
+    </rect>
+  </clipPath>
+  <text class="role" x="231.6" y="150" clip-path="url(#masque0)">Data Analyst / Data Engineer</text>
+  <rect class="curseur" x="231.6" y="126" width="3" height="30" opacity="0">
+    <animate attributeName="x" dur="12.0s" repeatCount="indefinite" keyTimes="0.0000;0.0000;0.1167;0.2667;0.3167;1.0000"
+             values="231.6;231.6;668.4;668.4;231.6;231.6"/>
+    <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete"
+             keyTimes="0;0.0000;0.3333" values="0;1;0"/>
+  </rect>
+  <clipPath id="masque1">
+    <rect x="294.0" y="124" width="0" height="36">
+      <animate attributeName="width" dur="12.0s" repeatCount="indefinite" keyTimes="0.0000;0.3333;0.4500;0.6000;0.6500;1.0000" values="0.0;0.0;312.0;312.0;0.0;0.0"/>
+    </rect>
+  </clipPath>
+  <text class="role" x="294.0" y="150" clip-path="url(#masque1)">Python · SQL · Azure</text>
+  <rect class="curseur" x="294.0" y="126" width="3" height="30" opacity="0">
+    <animate attributeName="x" dur="12.0s" repeatCount="indefinite" keyTimes="0.0000;0.3333;0.4500;0.6000;0.6500;1.0000"
+             values="294.0;294.0;606.0;606.0;294.0;294.0"/>
+    <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete"
+             keyTimes="0;0.3333;0.6667" values="0;1;0"/>
+  </rect>
+  <clipPath id="masque2">
+    <rect x="286.2" y="124" width="0" height="36">
+      <animate attributeName="width" dur="12.0s" repeatCount="indefinite" keyTimes="0.0000;0.6667;0.7833;0.9333;0.9833;1.0000" values="0.0;0.0;327.6;327.6;0.0;0.0"/>
+    </rect>
+  </clipPath>
+  <text class="role" x="286.2" y="150" clip-path="url(#masque2)">Scraping, ML et MLOps</text>
+  <rect class="curseur" x="286.2" y="126" width="3" height="30" opacity="0">
+    <animate attributeName="x" dur="12.0s" repeatCount="indefinite" keyTimes="0.0000;0.6667;0.7833;0.9333;0.9833;1.0000"
+             values="286.2;286.2;613.8;613.8;286.2;286.2"/>
+    <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete"
+             keyTimes="0;0.6667;1.0000" values="0;1;0"/>
+  </rect>
+</svg>
