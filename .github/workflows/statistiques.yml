@@ -1,0 +1,51 @@
+# Met à jour les cartes de statistiques GitHub de la page d'accueil (assets/stats-*.svg et langages-*.svg).
+# Les cartes ne sont enregistrées que si les statistiques ont changé.
+
+name: Statistiques GitHub
+
+on:
+  schedule:
+    # chaque jour à 5 h (UTC)
+    - cron: '0 5 * * *'
+  # lancement manuel depuis l'onglet Actions
+  workflow_dispatch:
+  # première génération dès que le script ou ce workflow est modifié sur la branche principale
+  push:
+    branches: [main]
+    paths:
+      - scripts/statistiques.py
+      - .github/workflows/statistiques.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: statistiques
+  cancel-in-progress: false
+
+jobs:
+  statistiques:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Générer les cartes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/statistiques.py "${{ github.repository_owner }}"
+
+      - name: Enregistrer les cartes si elles ont changé
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/stats-*.svg assets/langages-*.svg
+          if git diff --cached --quiet; then
+            echo "Statistiques inchangées"
+          else
+            git commit -m "Met à jour les statistiques GitHub"
+            git push
+          fi
