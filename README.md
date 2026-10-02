@@ -10,12 +10,6 @@
 
 Data Analyst et Data Engineer, j'aime transformer des données brutes en informations utiles : collecte, nettoyage, modélisation, puis mise à disposition dans des applications simples à utiliser.
 
-- 🔭 Je travaille actuellement sur le **suivi du drift et le réentraînement automatique** d'un modèle d'estimation de prix ([prix_voiture](https://github.com/Olaffson/prix_voiture))
-- 🌱 J'approfondis en ce moment **le MLOps et le cloud Azure**
-- 🎯 Je recherche **un poste de Data Engineer**
-- 💬 Parlons **pipelines de données, scraping ou machine learning**
-- ⚡ Fun fact : **je teste mes modèles sur des données que je simule moi-même**
-
 ## 🛠️ Compétences
 
 <table>
@@ -29,6 +23,9 @@ Data Analyst et Data Engineer, j'aime transformer des données brutes en informa
       <a href="https://www.tensorflow.org" title="TensorFlow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="36" height="36"/></a>
       <a href="https://seaborn.pydata.org" title="Seaborn"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="36" height="36"/></a>
       <a href="https://jupyter.org" title="Jupyter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="36" height="36"/></a>
+      <a href="https://www.databricks.com" title="Databricks"><img src="assets/databricks.svg" alt="Databricks" width="36" height="36"/></a>
+      <a href="https://www.getdbt.com" title="dbt"><img src="assets/dbt.svg" alt="dbt" width="36" height="36"/></a>
+      <a href="https://www.microsoft.com/fr-fr/power-platform/products/power-bi" title="Power BI"><img src="assets/powerbi.svg" alt="Power BI" width="36" height="36"/></a>
     </td>
   </tr>
   <tr>
@@ -53,6 +50,7 @@ Data Analyst et Data Engineer, j'aime transformer des données brutes en informa
     <td><b>Cloud & DevOps</b></td>
     <td>
       <a href="https://azure.microsoft.com/fr-fr" title="Azure"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="36" height="36"/></a>
+      <a href="https://www.terraform.io" title="Terraform"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="36" height="36"/></a>
       <a href="https://www.docker.com" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/></a>
       <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="36" height="36"/></a>
       <a href="https://git-scm.com" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/></a>
