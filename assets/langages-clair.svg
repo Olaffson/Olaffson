@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" role="img" aria-labelledby="titre desc">
   <title id="titre">Langages les plus utilisés</title>
-  <desc id="desc">Python : 44.2 %, CSS : 15.2 %, JavaScript : 13.7 %, HTML : 10.8 %, SCSS : 6.3 %, PowerShell : 6.0 %, Autres : 3.8 %</desc>
+  <desc id="desc">Python : 44.5 %, CSS : 15.1 %, JavaScript : 13.6 %, HTML : 10.7 %, SCSS : 6.3 %, PowerShell : 6.0 %, Autres : 3.8 %</desc>
   <style>
     text { font-family: 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
     .titre { font-size: 18px; font-weight: 600; fill: #2563eb; }
@@ -15,22 +15,22 @@
   <rect x="0.5" y="0.5" width="439" height="199" rx="10" fill="#ffffff" stroke="#d0d7de"/>
   <text class="titre" x="25" y="36">Langages les plus utilisés</text>
   <clipPath id="arrondi"><rect x="25" y="56" width="390" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#arrondi)"><g class="barre"><rect x="25.00" y="56" width="172.26" height="10" fill="#3572A5"/><rect x="197.26" y="56" width="59.24" height="10" fill="#663399"/><rect x="256.51" y="56" width="53.45" height="10" fill="#f1e05a"/><rect x="309.96" y="56" width="42.21" height="10" fill="#e34c26"/><rect x="352.17" y="56" width="24.67" height="10" fill="#c6538c"/><rect x="376.84" y="56" width="23.51" height="10" fill="#012456"/><rect x="400.35" y="56" width="14.65" height="10" fill="#8b949e"/></g></g>
+  <g clip-path="url(#arrondi)"><g class="barre"><rect x="25.00" y="56" width="173.37" height="10" fill="#3572A5"/><rect x="198.37" y="56" width="58.82" height="10" fill="#663399"/><rect x="257.19" y="56" width="53.07" height="10" fill="#f1e05a"/><rect x="310.26" y="56" width="41.91" height="10" fill="#e34c26"/><rect x="352.17" y="56" width="24.50" height="10" fill="#c6538c"/><rect x="376.67" y="56" width="23.34" height="10" fill="#012456"/><rect x="400.01" y="56" width="14.99" height="10" fill="#8b949e"/></g></g>
   <g class="apparait" style="animation-delay: 0.30s">
     <circle cx="31" cy="91" r="5" fill="#3572A5"/>
-    <text class="libelle" x="43" y="96">Python <tspan class="valeur">44.2 %</tspan></text>
+    <text class="libelle" x="43" y="96">Python <tspan class="valeur">44.5 %</tspan></text>
   </g>
   <g class="apparait" style="animation-delay: 0.40s">
     <circle cx="231" cy="91" r="5" fill="#663399"/>
-    <text class="libelle" x="243" y="96">CSS <tspan class="valeur">15.2 %</tspan></text>
+    <text class="libelle" x="243" y="96">CSS <tspan class="valeur">15.1 %</tspan></text>
   </g>
   <g class="apparait" style="animation-delay: 0.50s">
     <circle cx="31" cy="118" r="5" fill="#f1e05a"/>
-    <text class="libelle" x="43" y="123">JavaScript <tspan class="valeur">13.7 %</tspan></text>
+    <text class="libelle" x="43" y="123">JavaScript <tspan class="valeur">13.6 %</tspan></text>
   </g>
   <g class="apparait" style="animation-delay: 0.60s">
     <circle cx="231" cy="118" r="5" fill="#e34c26"/>
-    <text class="libelle" x="243" y="123">HTML <tspan class="valeur">10.8 %</tspan></text>
+    <text class="libelle" x="243" y="123">HTML <tspan class="valeur">10.7 %</tspan></text>
   </g>
   <g class="apparait" style="animation-delay: 0.70s">
     <circle cx="31" cy="145" r="5" fill="#c6538c"/>
