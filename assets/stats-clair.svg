@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" role="img" aria-labelledby="titre desc">
   <title id="titre">Statistiques GitHub</title>
-  <desc id="desc">Dépôts publics : 39, Étoiles reçues : 0, Commits (12 derniers mois) : 104, Contributions (12 derniers mois) : 173, Pull requests : 65</desc>
+  <desc id="desc">Dépôts publics : 39, Étoiles reçues : 0, Commits (12 derniers mois) : 105, Contributions (12 derniers mois) : 175, Pull requests : 66</desc>
   <style>
     text { font-family: 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
     .titre { font-size: 18px; font-weight: 600; fill: #2563eb; }
@@ -27,16 +27,16 @@
   <g class="apparait" style="animation-delay: 0.30s">
     <circle cx="31" cy="120" r="5" fill="#16a34a"/>
     <text class="libelle" x="45" y="125">Commits (12 derniers mois)</text>
-    <text class="valeur" x="415" y="125" text-anchor="end">104</text>
+    <text class="valeur" x="415" y="125" text-anchor="end">105</text>
   </g>
   <g class="apparait" style="animation-delay: 0.45s">
     <circle cx="31" cy="147" r="5" fill="#9333ea"/>
     <text class="libelle" x="45" y="152">Contributions (12 derniers mois)</text>
-    <text class="valeur" x="415" y="152" text-anchor="end">173</text>
+    <text class="valeur" x="415" y="152" text-anchor="end">175</text>
   </g>
   <g class="apparait" style="animation-delay: 0.60s">
     <circle cx="31" cy="174" r="5" fill="#ea580c"/>
     <text class="libelle" x="45" y="179">Pull requests</text>
-    <text class="valeur" x="415" y="179" text-anchor="end">65</text>
+    <text class="valeur" x="415" y="179" text-anchor="end">66</text>
   </g>
 </svg>
